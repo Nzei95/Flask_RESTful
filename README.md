@@ -8,4 +8,5 @@ cd to the directory where requirements.txt is located
 run: pip install -r requirements.txt in your shell
 
 Delete the data.db file 
+
 Then run : python create_tables_py
